@@ -21,5 +21,5 @@ cd animal_test
 ```
 Run the main script:
 ```
-python main.py
+python3 main.py
 ```
